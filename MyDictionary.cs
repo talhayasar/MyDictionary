@@ -35,8 +35,7 @@ namespace MyDictionary
         }
         public TValue[] Items//for printing to console
         {
-            get { return itemvalue; }
-
+            get { return itemvalue;}
         }
 
     }
